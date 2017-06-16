@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>金友企业管理系统</title>
-    <link>http://yourdomain.com/</link>
+    <link>https://ttalis.github.io/CSMIS/</link>
     <description>Recent content on 金友企业管理系统</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jul 2015 14:08:29 +0200</lastBuildDate>
     
-	<atom:link href="http://yourdomain.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ttalis.github.io/CSMIS/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>主界面</title>
-      <link>http://yourdomain.com/post/first/</link>
+      <link>https://ttalis.github.io/CSMIS/post/first/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
       
-      <guid>http://yourdomain.com/post/first/</guid>
+      <guid>https://ttalis.github.io/CSMIS/post/first/</guid>
       <description>主界面包括导航菜单栏，有基础信息管理，客户管理，公司文档，工作管理，项目管理，仓库管理和系统维护。中间栏位是详细的子功能列表，右边空间是常用快捷键，右下是消息中心。</description>
     </item>
     
     <item>
       <title>文档管理</title>
-      <link>http://yourdomain.com/post/second/</link>
+      <link>https://ttalis.github.io/CSMIS/post/second/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:45 +0200</pubDate>
       
-      <guid>http://yourdomain.com/post/second/</guid>
+      <guid>https://ttalis.github.io/CSMIS/post/second/</guid>
       <description>强大完善的文档管理系统，满足企业各部门的文档管理需求。支持常用的MS office文件格式。</description>
     </item>
     
     <item>
       <title>工作任务指派</title>
-      <link>http://yourdomain.com/post/third/</link>
+      <link>https://ttalis.github.io/CSMIS/post/third/</link>
       <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
       
-      <guid>http://yourdomain.com/post/third/</guid>
+      <guid>https://ttalis.github.io/CSMIS/post/third/</guid>
       <description>任务流程指派，可以进行详细的工作计划和安排，跟踪反馈。为业务销售提供可靠支持。不错过任何一个商机。</description>
     </item>
     
     <item>
       <title>关于</title>
-      <link>http://yourdomain.com/about/about/</link>
+      <link>https://ttalis.github.io/CSMIS/about/about/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
       
-      <guid>http://yourdomain.com/about/about/</guid>
+      <guid>https://ttalis.github.io/CSMIS/about/about/</guid>
       <description>本软件是汇集广东省各大企业成功管理经验编制而成
 适用于
 企业销售人员的销售细节的管控
