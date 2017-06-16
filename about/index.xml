@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on 金友企业管理系统</title>
+    <link>http://yourdomain.com/about/</link>
+    <description>Recent content in Abouts on 金友企业管理系统</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2015 14:08:35 +0200</lastBuildDate>
+    
+	<atom:link href="http://yourdomain.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于</title>
+      <link>http://yourdomain.com/about/about/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
+      
+      <guid>http://yourdomain.com/about/about/</guid>
+      <description>本软件是汇集广东省各大企业成功管理经验编制而成
+适用于
+企业销售人员的销售细节的管控
+企业的销售漏斗拓展客户细节的管控
+企业的项目全面的细节的管控
+为企业节省销售成本、人员成本和管理成本</description>
+    </item>
+    
+  </channel>
+</rss>
